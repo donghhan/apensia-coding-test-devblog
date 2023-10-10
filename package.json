@@ -5,6 +5,7 @@
 		"build": "next build"
 	},
 	"dependencies": {
+		"@code-hike/mdx": "^0.9.0",
 		"next": "^13.5.4",
 		"nextra": "^2.13.2",
 		"nextra-theme-blog": "^2.13.2",
